@@ -1,5 +1,9 @@
 voila
+xgboost
+scikit-learn
 fastai>=2
 pillow<7
 packaging
 ipywidgets==7.5.1
+
+
